@@ -1,7 +1,6 @@
-(https://scontent.fdac27-1.fna.fbcdn.net/v/t1.18169-9/s417x417/20992650_503109666690913_7827955998155867798_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=19026a&_nc_ohc=PH9DvaBW4fcAX-02z_G&_nc_ht=scontent.fdac27-1.fna&oh=1effb892cc0188e5e17bbafac486b2cd&oe=615A06A5)
+![ Web Developer from a Non-CSE background.](https://scontent.fdac27-1.fna.fbcdn.net/v/t1.18169-9/s417x417/20992650_503109666690913_7827955998155867798_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=19026a&_nc_ohc=PH9DvaBW4fcAX-02z_G&_nc_ht=scontent.fdac27-1.fna&oh=1effb892cc0188e5e17bbafac486b2cd&oe=615A06A5)
 ### Hi there 👋,  I'm Shank
 ####  Web Developer from a Non-CSE background.
-![ Web Developer from a Non-CSE background.]
 
 Programming and coding is my passion. I love to code and hunt problems whenever I get a chance in my life. It is quite adventurous for me to fuel my passion by standing from a BusinessDisciplineSubject. 
 
