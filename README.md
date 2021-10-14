@@ -2,7 +2,7 @@
 ### Hi there 👋,  I'm Shank
 ####  Web Developer from a Non-CSE background.
 
-Programming and coding is my passion. I love to code and hunt problems whenever I get a chance in my life. It is quite adventurous for me to fuel my passion by standing from a BusinessDisciplineSubject. 
+Programming and coding is my passion. I love to code and hunt problems whenever I get a chance in my life. It is quite adventurous for me to fuel my passion by standing from a BusinessDisciplineGraduate. 
 
 Skills: HTML5 | CSS3 | Bootstrap | JavaScript | Wordpress 
 
